@@ -2,7 +2,7 @@
 
 ## Agent Tree
 
-Side pane for the terminal that draws a session's agents as a tree of boxes, with details, stop, timeline and model choice by click. Free and open source under the MIT license.
+A side pane for Claude Code that shows your agents live across all open terminals. You can stop or redirect them, see their cost and add a local model. It is free and open source under the MIT license.
 
 [github.com/MikeGT4/agent-tree](https://github.com/MikeGT4/agent-tree)
 
